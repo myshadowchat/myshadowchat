@@ -2,7 +2,7 @@
 
 # ◈ Shadow Chat
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3000&pause=800&color=6470FF&center=true&vCenter=true&width=640&lines=Private+messaging%2C+done+right.;End-to-end+encrypted+by+default.;Voice%2C+video+%26+files+%E2%80%94+all+encrypted.;Self-hosted.+No+ads.+No+tracking." alt="Shadow Chat" />
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=600&size=22&duration=3000&pause=800&color=6470FF&center=true&vCenter=true&width=660&lines=Private+messaging%2C+done+right.;End-to-end+encrypted+by+default.;Voice%2C+video+%26+files+%E2%80%94+all+encrypted.;Your+server.+Your+keys.+Your+rules." alt="Shadow Chat" />
 
 <br/>
 
@@ -71,6 +71,33 @@ everything is built in-house. Privacy isn't a setting here — it's the default.
 </td>
 </tr>
 </table>
+
+<br/>
+
+## ⚔️ How it compares
+
+Most messengers make you trade privacy for convenience — or convenience for privacy.
+**Shadow Chat refuses the trade.**
+
+| | **◈ Shadow Chat** | Telegram | Signal | SimpleX |
+|---|:---:|:---:|:---:|:---:|
+| End-to-end encrypted **by default** | ✅ | ❌ ¹ | ✅ | ✅ |
+| **No phone number or email** to sign up | ✅ | ❌ | ❌ | ✅ |
+| **Self-host** on your own server | ✅ | ❌ | ❌ | ✅ |
+| Voice & video calls | ✅ | ✅ | ✅ | ✅ |
+| Group chats | ✅ | ✅ | ✅ | ✅ |
+| Encrypted files & media | ✅ | 🟡 ¹ | ✅ | ✅ |
+| Forward secrecy | ✅ ² | 🟡 ¹ | ✅ | ✅ |
+| Self-destructing messages | ✅ | ✅ | ✅ | ✅ |
+| Install-free **web app (PWA)** | ✅ | ✅ | ❌ | ❌ |
+
+<sub>¹ Telegram is end-to-end encrypted only in opt-in "Secret Chats"; normal cloud chats, files and groups are not. &nbsp; ² Enabled per chat via Secret Chats (Double Ratchet). &nbsp; Reflects each app's default/typical setup, 2026.</sub>
+
+<div align="center">
+
+**Encrypted like Signal. No phone number like SimpleX. Yours to host — like nothing else.**
+
+</div>
 
 <br/>
 
