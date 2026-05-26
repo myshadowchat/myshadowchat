@@ -37,8 +37,9 @@ everything is built in-house. Privacy isn't a setting here — it's the default.
 - Text, images, files & voice messages
 - Reactions, replies, edits, forwarding & pinning
 - Typing indicators & read receipts
-- Self-destructing messages
+- Self-destructing & view-once messages
 - Group chats with encrypted keys
+- Archive, mute & clear conversations
 
 </td>
 <td valign="top" width="50%">
@@ -46,6 +47,7 @@ everything is built in-house. Privacy isn't a setting here — it's the default.
 **📞 Calls**
 - 1-to-1 voice & video over WebRTC
 - Multi-party (mesh) group calls
+- Screen sharing
 - Ringtones & live call UI
 
 </td>
@@ -62,8 +64,9 @@ everything is built in-house. Privacy isn't a setting here — it's the default.
 </td>
 <td valign="top" width="50%">
 
-**📱 Platform**
+**📱 Platform & Social**
 - Installable PWA + native iOS
+- Profiles with custom display names & posts
 - Push notifications
 - Multiple themes & languages (TR / EN / RU)
 - Cross-device, persistent history
